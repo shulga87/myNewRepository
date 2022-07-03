@@ -1,4 +1,4 @@
 Hello world!!! 12345
-good bye!
+good morning! (from branch add-feature1)
 12345
 +++
