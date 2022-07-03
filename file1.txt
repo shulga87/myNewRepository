@@ -1,4 +1,4 @@
 Hello world!!! 12345
 good evening! (from master branch)
-12345
+line from user2
 +++
